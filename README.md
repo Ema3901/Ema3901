@@ -57,20 +57,18 @@ I am Ema, welcome!
 <a href= "https://www.instagram.com/ema_pangolin/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
 
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
-<p>
+<p>  
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ema3901&show_icons=true&theme=nord&locale=en&langs_count=8&hide=jupyter%20notebook,lex&" alt="josuerv99" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ema3901&theme=nord&show_icons=true&hide_border=false&count_private=false" alt="josuerv99" /></p>
+    </a>  
   </p>
 </p>
 </div>
