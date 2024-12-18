@@ -57,6 +57,9 @@ I am Ema, welcome!
 <a href= "https://www.instagram.com/ema_pangolin/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href= "https://x.com/Ink101_">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
 
 <!-- GITHUB STATS -->
 <hr>
