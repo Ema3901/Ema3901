@@ -7,7 +7,7 @@ Hi, I'm Emanuel Vazquez!
   <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+everyone!+Welcome+to+my+place!;Python+%7C+Web+develop+%7C+MySQL" alt="Hablo español :D" /></a></a>
 </p>
 
-<img align="left" src="https://github.com/Ema3901/Ema3901/blob/main/yoese.jpg" alt="I don't like photos" width="320" height="280" />
+<img align="left" src="https://github.com/Ema3901/Ema3901/blob/main/yoese.jpg" alt="I don't like photos" width="320" height="300" />
 <hr>
 
 ```
@@ -20,6 +20,9 @@ I am Ema, welcome!
 🌟 Main languages: Python
 💖 In a lovely relationship with my girlfrind
 🎵 Love metal, lofi, jazz and soft music
+🎂 My birthday is on March 1st
+💿 I love NewJeans and Hatsune Miku
+💬 I can talk Spanish english and a little bit of japanese
 ```
 <hr>
 
