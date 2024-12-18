@@ -13,7 +13,7 @@ Hi, I'm Emanuel Vazquez!
 ```
 I am Ema, welcome!
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Developer and always to learn something
 📚 I studing Web development in UTTN in Reynosa
 🔭 Interested on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
