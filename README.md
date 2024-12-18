@@ -4,10 +4,10 @@ Hi, I'm Emanuel Vazquez!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+everyone!+Welcome+to+my+place!;Python+%7C+Web+develop+%7C+MySQL" alt="Hablo español :D" /></a></a>
 </p>
 
-<img align="left" src="https://github.com/Ema3901/Ema3901/blob/main/yoese.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="280" />
+<img align="left" src="https://github.com/Ema3901/Ema3901/blob/main/yoese.jpg" alt="I don't like photos" width="320" height="280" />
 <hr>
 
 ```
