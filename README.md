@@ -18,7 +18,6 @@ I am Ema, welcome!
 🔭 Interested on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python
-💖 In a lovely relationship with my girlfrind
 🎵 Love metal, lofi, jazz and soft music
 🎂 My birthday is on March 1st
 💿 I love NewJeans and Hatsune Miku
