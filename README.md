@@ -56,9 +56,15 @@ I am Ema, welcome!
 <a href= "https://www.instagram.com/ema_pangolin/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href= "https://x.com/Ink101_">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+
+<a href="https://www.linkedin.com/in/ema-vazquez/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<a href="https://ema3901.github.io/">
+  <img src="https://img.shields.io/badge/Web-Site-Emanuel%20Vaz%C3%A1quez-%2300D4FF.svg?style=for-the-badge&logo=about-dot-me&logoColor=white">
+</a>
+
 
 <!-- GITHUB STATS -->
 <hr>
@@ -68,8 +74,8 @@ I am Ema, welcome!
 <p>  
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ema3901&show_icons=true&theme=nord&locale=en&langs_count=8&hide=jupyter%20notebook,lex&" alt="josuerv99" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ema3901&theme=nord&show_icons=true&hide_border=false&count_private=false" alt="josuerv99" /></p>
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ema3901&show_icons=true&theme=nord&locale=en&langs_count=8&hide=jupyter%20notebook,lex&" alt="EmanuelVazquez" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ema3901&theme=nord&show_icons=true&hide_border=false&count_private=false" alt="EmanuelVazquez" /></p>
     </a>  
   </p>
 </p>
@@ -88,4 +94,4 @@ I am Ema, welcome!
 <br>
 
 -----
-Last Edited on: 17/12/2024
+Last Edited on: 01/09/2025
