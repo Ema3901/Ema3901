@@ -62,8 +62,9 @@ I am Ema, welcome!
 </a>
 
 <a href="https://ema3901.github.io/">
-  <img src="https://img.shields.io/badge/Web-Site-Emanuel%20Vaz%C3%A1quez-%2300D4FF.svg?style=for-the-badge&logo=about-dot-me&logoColor=white">
+  <img src="https://img.shields.io/badge/Website-Emanuel%20Vazquez-%2300D4FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
+
 
 
 <!-- GITHUB STATS -->
